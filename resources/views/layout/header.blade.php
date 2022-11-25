@@ -56,7 +56,7 @@
 				@endforeach
 			</ul>
 			<ul id="nav"  style='float: right;'>
-				<li class="home first"><a href="{{asset('')}}"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+				<li class="home first"><a href="{{asset('')}}">TRANG CHỦ</a></li>
 				<li><a  href="gioi-thieu">GIỚI THIỆU</a></li>
 				@foreach($head_category as $item)
 					@if($item['parent'] == 0)
