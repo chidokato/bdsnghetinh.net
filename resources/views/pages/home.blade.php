@@ -36,7 +36,7 @@
 <section style='background-color: #f0f0f0; padding: 20px 0px;' class="home-project">
 	<div class="container">
 		<div class="box-title" style='text-align: center;'>
-		  <h2><span style='color:#ed3237'>DỰ ÁN</span> NỔI BẬT</h2>
+		  <h2><span style='color:var(--sub-color)'>DỰ ÁN</span> NỔI BẬT</h2>
 		  <p><img src='/public/upload/files/line.png'></p>
 		</div>
 		<div class="box-content">
@@ -83,7 +83,7 @@
 <section style='padding: 20px 0px;' class="home-project">
 	<div class="container">
 		<div class="box-title" style='text-align: center;'>
-		  <h2><span style='color:#ed3237'>TIN TỨC</span> THỊ TRƯỜNG</h2>
+		  <h2><span style='color:var(--sub-color)'>TIN TỨC</span> THỊ TRƯỜNG</h2>
 		  <p><img src='/public/upload/files/line.png'></p>
 		</div>
 		<div class="box-content">
@@ -119,7 +119,7 @@
 <section style='background-color: #f0f0f0;padding: 30px 0px 20px; 0px ' class="home-block-three">
   <div class="container">
 	<div class="box-title" style='text-align: center;'>
-      <h2><span style='color:#ed3237'>VIETHOME </span> WATCH</h2>
+      <h2><span style='color:var(--sub-color)'>VIETHOME </span> WATCH</h2>
 	  <p><img src='/public/upload/files/line.png'></p>
     </div>
     <div class="row">
@@ -137,7 +137,7 @@
 <section style='padding: 30px 0px 20px; 0px' class="home-news hidden-xs">
   <div class="container">
     <div class="box-title" style='text-align: center;'>
-      <h2><span style='color:#ed3237'>TẠI SAO LỰA CHỌN</span> VIETHOME </h2>
+      <h2><span style='color:var(--sub-color)'>TẠI SAO LỰA CHỌN</span> VIETHOME </h2>
 	  <p><img src='/public/upload/files/line.png'></p>
     </div>
     <div class="row">

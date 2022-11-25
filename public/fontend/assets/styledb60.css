@@ -2,6 +2,7 @@
 
 :root {
     --main-color:#dbc065;
+    --sub-color:#2776ba
 }
 
 body {
@@ -138,7 +139,7 @@ ul.social li a{
 }
 /* NAVIGATION */
 nav{
-	background-color: var(--main-color);
+	background-color: var(--sub-color);
 	position: fixed;
     z-index: 9;
     width: 100%;
@@ -156,7 +157,7 @@ nav{
 #nav > li > a{
 	line-height: 70px;
 	padding: 0px 15px;
-	color:#fff;
+	color:var(--main-color);
 	font-size: 13px;
 	display:block;
 	text-transform: uppercase;
@@ -166,12 +167,14 @@ nav{
 	font-size: 18px;
 	background-color: var(--main-color);
 	padding: 0px 20px;
+	color: #fff;
 }
 #nav > li.first a{
 	padding: 0px 20px;
 }
 #nav > li.active > a, #nav > li:hover > a{
 	background-color: var(--main-color);
+	color: #fff;
 }
 #nav .sub-menu {
 	display: none;
@@ -1901,7 +1904,7 @@ input[type=submit]:hover{
 .home-iteam .t-item{ width:50%; float: left;height: 45vh;text-align: center;    padding: 70px 50px; }
 .home-iteam .t-item p, .home-iteam .t-item h3{color:#fff;}
 .clr{clear: both;}
-.noithat{background-color: #959595;}
+.noithat{background-color: var(--sub-color);}
 .moban{background-color: var(--main-color);}
 .xemthem{border: #ddd 1px solid; line-height: 46px; color: #fff; padding: 10px;border-radius: 5px;}
 .xemthem:hover{color:#333; background-color: #fff;}
