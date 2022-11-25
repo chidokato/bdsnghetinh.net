@@ -137,7 +137,7 @@
 <section style='padding: 30px 0px 20px; 0px' class="home-news hidden-xs">
   <div class="container">
     <div class="box-title" style='text-align: center;'>
-      <h2><span style='color:#ed3237'>TẠI SAO LỰA CHỌN</span> VIỆT HOME</h2>
+      <h2><span style='color:#ed3237'>TẠI SAO LỰA CHỌN</span> VIETHOME </h2>
 	  <p><img src='/public/upload/files/line.png'></p>
     </div>
     <div class="row">
@@ -177,7 +177,7 @@
 <section class='doitac'>
 	<div class="container">
 		<div class="box-title">
-			<h2>ĐỐI TÁC CỦA VIỆT HOME</h2>
+			<h2>ĐỐI TÁC CỦA VIETHOME </h2>
 			<p><img src='/public/upload/files/line.png'></p>
 			<p>Chúng tôi hợp tác với những đối tác hàng đầu trong lĩnh vực đầu tư bất động sản, tài chính, thiết kế nội thất... nhằm cung cấp cho gia đình bạn giải pháp mua và thuê đồng bộ và hiệu quả</p>
 		</div>
