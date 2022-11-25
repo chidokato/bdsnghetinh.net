@@ -14,7 +14,7 @@
 							<div class="logo">
 								<a href="{{asset('')}}">
 									@foreach($head_logo as $val)
-									<img style="height: 70px; " alt="đất xanh nghệ an" src="{{$val->img}}">
+									<img style="height: 35px; margin: 10px 0px;" alt="đất xanh nghệ an" src="{{$val->img}}">
 									@endforeach
 								</a> 
 							</div>
@@ -52,7 +52,7 @@
 		<div class="nav-inner">
 			<ul id="nav"  style='float: left;'>
 				@foreach($head_logo as $val)
-				<a href="{{asset('')}}"><li><img style='height: 40px;margin-top: 15px;' src='{{$val->img}}' /></li></a>
+				<a href="{{asset('')}}"><li><img style='height: 70px;' src='{{$val->img}}' /></li></a>
 				@endforeach
 			</ul>
 			<ul id="nav"  style='float: right;'>
