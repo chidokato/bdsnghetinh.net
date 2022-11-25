@@ -14,7 +14,7 @@
 							<div class="logo">
 								<a href="{{asset('')}}">
 									@foreach($head_logo as $val)
-									<img style="height: 35px; margin: 10px 0px;" alt="đất xanh nghệ an" src="{{$val->img}}">
+									<img style="height: 70px; " alt="đất xanh nghệ an" src="{{$val->img}}">
 									@endforeach
 								</a> 
 							</div>
